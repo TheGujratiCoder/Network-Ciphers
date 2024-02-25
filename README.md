@@ -60,7 +60,7 @@ This is known as the CIA triad which are the basic pillars of Information and Ne
 
 ## Illustration of Encryption / Decryption Process
 
-![image](https://github.com/TheGujratiCoder/Network-Ciphers/assets/127189365/8cf23ca2-1927-4872-bc6f-11da26bac104)
+![image](https://github.com/TheGujratiCoder/Network-Ciphers/assets/127189365/f4994819-3751-4b40-b0c4-73da538b8879)
 
 ## Popular Network Ciphers Explained
 
